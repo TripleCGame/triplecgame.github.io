@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwhitepaper=self.webpackChunkwhitepaper||[]).push([[141],{3918:e=>{e.exports=JSON.parse('{"title":"TripleC Whitepaper","description":"TripleC Whitepaper","slug":"/category/triplec-whitepaper","permalink":"/docs/category/triplec-whitepaper","navigation":{"next":{"title":"Summary","permalink":"/docs/TripleCWhitepaper/summary"}}}')}}]);
